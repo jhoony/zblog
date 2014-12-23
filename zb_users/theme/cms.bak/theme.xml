@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>cms</id>
+<name>cms</name>
+<url>www.jhoony.com</url>
+<note></note>
+<description></description>
+<path></path>
+<include></include>
+<level>1</level>
+<author>
+  <name>jhoony</name>
+  <email>875075752@qq.com</email>
+  <url>www.jhoony.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.0</version>
+<pubdate>2014-10-31</pubdate>
+<modified>2014-10-31</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
